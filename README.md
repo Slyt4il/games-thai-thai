@@ -2,8 +2,7 @@
 
 A list of games by Thai developers.
 
----
-<sub><sup>📖 Good reference for aspiring indie devs | 🔥  Lit </sup></sub>
+<sub>📖 Good reference for aspiring indie devs | 🔥  Lit </sub>
 
 | Title  | Genre | Developer |Links | Notes |
 |:-------|:------|:----------|:-----|:------|
