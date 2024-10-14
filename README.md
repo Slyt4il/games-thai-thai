@@ -1,3 +1,4 @@
+
 # Games Thai Thai
 
 A list of games by Thai developers.
@@ -18,5 +19,6 @@ A list of games by Thai developers.
 | Kingdoms Reborn | City Builder | [Earthshine](https://www.facebook.com/EarthshineGame/) | [Steam](https://store.steampowered.com/app/1307890/Kingdoms_Reborn/) | <sub></sup>🔥 Most successful game I've seen so far.</sup></sub> |
 | Myth | Horror | [Techcast](https://www.youtube.com/@Techcast) | [Steam](https://store.steampowered.com/app/2430410/Myth/) | <sub></sup>📖 Developer published a [post-mortem](https://www.youtube.com/watch?v=fHK7ALyRh3E).</sup></sub> |
 | Night Drive | Horror | [zebracan studio](https://www.youtube.com/@zebraman555) | [Steam](https://store.steampowered.com/app/3059400/Night_Drive/) | <sub></sup>📖 Developer published a [devlog](https://www.youtube.com/watch?v=LXgi-bTU4gM) on Youtube.</sup></sub> |
+| SOLAR POP! | Puzzle | [Zblood96](https://www.youtube.com/@Zblood96) | [Google Play](https://play.google.com/store/apps/details?id=com.Zblood96.SOLARPOP) | <sub></sup>📖 Developer published a [devlog](https://www.youtube.com/watch?v=7Yjna4OsjxQ) on Youtube.</sup></sub> |
 | Timelie | Puzzle | [Urnique Studio](https://www.urniquestudio.com/EN/home) | [Steam](https://store.steampowered.com/app/1150950/Timelie/) | <sub></sup>Over 1600 reviews (Overwhelmingly Positive) on Steam as of writing.</sup></sub> |
 | TV Defense  | Tower Defense | [Meow Dev](https://www.youtube.com/@MeowDev/videos)  |[Roblox](https://www.roblox.com/games/14809035044/) | <sub></sup>26.9 M visits. Developer has gamedev-related videos on his Youtube channel.</sup></sub> |
